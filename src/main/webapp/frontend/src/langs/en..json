@@ -1,0 +1,12 @@
+{
+  "common": {
+   "select_langs": "Select language"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "btn-submit": "Submit",
+    "btn-reset": "Reset"
+  }
+}
